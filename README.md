@@ -17,6 +17,14 @@ This repository contains my handwritten notes from a GitHub training session. Th
 - `commands.md` → A summary of important Git commands
 - `resources.md` → Useful links and references
 
+## 🎥 Video Resources
+1. **Learn Git and GitHub** – [Watch Here](https://www.youtube.com/watch?v=BRLelBzKP7I&list=PLJHvhC6LQuHvv9HvIZ-gxXGWfnHwIzoT_)  
+2. **Learn GitActions CI/CD Pipelines** – [Watch Here](https://www.youtube.com/watch?v=R8_veQiYBjI)  
+
+## 📄 Document References for Learning
+1. **Git How To** – [Read Here](https://githowto.com/)  
+2. **GitHub Foundations (Microsoft)** – [Read Here](https://learn.microsoft.com/en-us/training/paths/github-foundations/)  
+
 ## 🚀 How to Use This Repo
 - Clone this repository:  
   ```bash
